@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/talebedinec/talebedinec.github.io.git
+	branch = main
