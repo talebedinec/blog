@@ -53,6 +53,5 @@ highlight_name: true
 
 Меня зовут Лебединец Татьяна, я из города Нижний Новгород. Закончила физико-математический Лицей №40. В своем портфолио имею множество грамот и две научные работы по био-физике.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
