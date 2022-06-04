@@ -1,8 +1,8 @@
 ---
-title: прошедшая неделя
+title: the last week.
 
 # Summary for listings and search engines
-summary: я уже меньше болею, но все еще болею
+summary: прошлая неделя
 
 # Link this post with a project
 projects: []
@@ -41,11 +41,9 @@ categories:
 ---
 
 ## Overview
-Прошедшая неделя.
+и по ночам мне снится...
 
 
 ## Моя неделя
-23 мая у меня был др! мне теперь 19 лет, завтра (28 мая) я буду его отмечать со своими друзьями из Нижнего Новгорода. Неделе ставлю 8/10.
-May 23 I had Dr! I am now 19 years old, tomorrow (May 28) I will celebrate it with my friends from Nizhny Novgorod. I give the week 8/10.
-
- 
+Неделя 9/10, все было хорошо, подружилась с дагестанцами, которые держат наш район.
+Week 9/10, everything was fine, made friends with the Dagestanis who hold our district.
